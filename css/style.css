@@ -201,3 +201,26 @@ nav {
   border-radius: 5px;
   padding: 0.5em 1em;
 }
+
+/* ### CONTACT ### */
+#contact {
+  height: 50%;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 2em;
+}
+
+/* ### FOOTER ### */
+footer {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
